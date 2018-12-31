@@ -18,7 +18,7 @@ Conversion between Fringes and Radius error in lens manufacture
 run python file "Fringes2Radius.py" directly
 
 # demo
-![demo](https://github.com/imyu37/Fringes2Radius/blob/master/demo.png)
+![demo.png](https://github.com/imyu37/Fringes2Radius/blob/master/demo.png)
 
 # requirements:
 -pyinstaller36
