@@ -1,0 +1,1 @@
+pyinstaller36 -F --icon favicon256.ICO  Fringes2Radius.py
